@@ -99,6 +99,7 @@ body {
   }
   section{
   margin-top: 6rem;
+  height: 100mv;
   }
   }
   @media screen and (max-width:600px) {
