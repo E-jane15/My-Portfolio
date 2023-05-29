@@ -38,7 +38,8 @@ const About = () => {
         </div>
 
         <p>
-          I look forward to handling all of your worries. Client Satisfaction is my top priority
+          I am a L300 student at the University Buea studying software engineering under the Faculty of Engineering and Technology.
+          I have grown these skills over time and I look forward to handling all of your worries. Client Satisfaction is my top priority.
         </p>
         <a href="#contact" className='btn btn-primary'>
            Let's link up

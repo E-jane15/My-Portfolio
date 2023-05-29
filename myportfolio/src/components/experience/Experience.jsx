@@ -10,13 +10,13 @@ const Experience = () => {
 
       <div className="container experience__container">
         <div className='experience__frontend'>
-          <h3>Photo Editing</h3>
+          <h3>Computer-Related</h3>
 
           <div className='experience__content'>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Adobe Photoshop</h4>
+                <h4>UI/UX</h4>
                 <small className='text-light'>Intermediate</small>  
              </div>
             </article>
@@ -24,7 +24,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Adobe Lightroom</h4>
+                <h4>Web Development</h4>
                <small className='text-light'>Experienced</small>
              </div>
             </article>
@@ -32,16 +32,16 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Canva</h4>
-                <small className='text-light'>Experienced</small>
+                <h4>Database </h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Picsart</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>Data Analysis</h4>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>
